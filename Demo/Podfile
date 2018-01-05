@@ -1,0 +1,17 @@
+platform :ios, '8.0'
+
+inhibit_all_warnings!
+target 'Demo' do
+ 
+   pod 'YTKNetwork', '~> 2.0.4'
+   pod 'MJExtension', '~> 3.0.13'
+   pod 'Masonry', '~> 1.1.0'
+   pod 'SDWebImage', '~> 4.2.2'
+   pod 'EasyJSWKWebView', '~> 1.1.1'
+   pod 'MBProgressHUD', '~> 1.1.0'
+   pod 'DZNEmptyDataSet', '~> 1.8.1'
+   pod 'MJRefresh', '~> 3.1.15.1'
+   pod 'FMDB', '~> 2.7.2'
+   pod 'SAMKeychain', '~> 1.5.3'
+
+end

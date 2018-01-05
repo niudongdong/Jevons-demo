@@ -1,0 +1,1 @@
+../../../EasyJSWKWebView/EasyJSWKWebView/Classes/WKUserScript+InterfacesScriptGenerator.h
